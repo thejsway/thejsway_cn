@@ -1,4 +1,4 @@
-# JavaScript Way 书
+# JavaScript 之路
 
 A modern introduction to an essential language.
 
@@ -16,7 +16,7 @@ Copyright © 2017 [Baptiste Pesquet](http://bpesquet.com). Translation provided 
  应用([点击这里看效果](https://thejsway-publink.herokuapp.com))。
 * **容易跟随**。直接使用你的浏览器或者本地搭建的JavaScript开发环境运行代码。
 
-了解更多关于本项目的信息，请[点击](https://medium.com/@bpesquet/walk-this-javascript-way-e9c45ab5b696#.fmmywlb2e)。
+了解更多关于本项目的信息，请点击[这里](https://medium.com/@bpesquet/walk-this-javascript-way-e9c45ab5b696#.fmmywlb2e)。
 
 ## 目录
 
